@@ -57,16 +57,3 @@ while not (clovek_score < 3) or (pc_score < 3):
 
 
 print(f" Skóre je: {pc_score} : {clovek_score}")
-
-#    play_again = input(f"Chceš hrát znovu? (y/n): ")
-#   if play_again != "y":
-#      break
-
-# odpočet, ať je to sranda :)
-# jednosekundová mezera mezi printem odpočtu
-#    time.sleep(1)
-#   i = 3
-#   while i > 0:
-#       print(i)
-#       i = i - 1
-#       time.sleep(1)
